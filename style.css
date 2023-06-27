@@ -163,6 +163,8 @@ p{
     background-color: var(--clr-primary-100);
     border-radius: .625rem;
     padding: 0 1.75rem 2rem 1.75rem;
+    display: grid;
+    align-items: end;
 }
 
 .all-courses h2{
